@@ -80,7 +80,8 @@ bilibili地址: https://space.bilibili.com/472620361
 | 67   | [Spring Boot Kubernetes](https://spring.io/guides/gs/spring-boot-kubernetes/)                                       |            |              | 4-12         |              |
 | 68   | [Accessing data with R2DBC](https://spring.io/guides/gs/accessing-data-r2dbc/)                                      |            |              | 4-12         |              |
 | 69   | [Spring Cloud Circuit Breaker Guide](https://spring.io/guides/gs/cloud-circuit-breaker/)                            |            |              | 4-13         |              |
-4-
+
+
 ## 第二部分 Topical Guides (<60分钟)
 | 序号 | 题目                                                                                            | GitHub地址 | bilibili地址 | 预期完成时间 | 最终完成时间 |
 | ---- | :---------------------------------------------------------------------------------------------- | :--------- | :----------- | :----------- | :----------- |
